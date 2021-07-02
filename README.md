@@ -1,7 +1,8 @@
 <h4> ToDo List </h4>
 
-<h5> Description:  Using React, Javascript, CSS, and HTML, you can now keep up with your very own ToDo list. Simply add a new task, or delete the ones you have completed along the way.</h5>
-<p> 
+<h5> Description: </h5>
+<p> Using React, Javascript, CSS, and HTML, you can now keep up with your very own ToDo list. Simply add a new task, or delete the ones you have completed along the way.</p>
+
 <h4> Installation: </h4>
 <p> To have your own ToDo List, simply save the files and open up the index.html file in your browser or using a live server option. Enjoy! </p>
 
